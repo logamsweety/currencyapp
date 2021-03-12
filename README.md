@@ -1,2 +1,2 @@
-# currencyapp
+# sweety
 Created with CodeSandbox
